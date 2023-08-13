@@ -1,0 +1,22 @@
+C:\Users\marth\source\repos\laboratorioUno\bin\Debug\laboratorioUno.exe.config
+C:\Users\marth\source\repos\laboratorioUno\bin\Debug\laboratorioUno.exe
+C:\Users\marth\source\repos\laboratorioUno\bin\Debug\laboratorioUno.pdb
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.csproj.AssemblyReference.cache
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.csproj.SuggestedBindingRedirects.cache
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.Form1.resources
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.Properties.Resources.resources
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.csproj.GenerateResource.cache
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.csproj.CoreCompileInputs.cache
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.exe
+C:\Users\marth\source\repos\laboratorioUno\obj\Debug\laboratorioUno.pdb
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\bin\Debug\laboratorioUno.exe.config
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\bin\Debug\laboratorioUno.exe
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\bin\Debug\laboratorioUno.pdb
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.Form1.resources
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.Properties.Resources.resources
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.csproj.GenerateResource.cache
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.exe
+D:\Escritorio\Nueva carpeta\ProgramacionOrientadaAEventos\Laboratorio1\Tarea1\Ejercicio3\obj\Debug\laboratorioUno.pdb
